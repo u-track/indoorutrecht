@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "nl-nl"
+title = "Indoor Utrecht"
+defaultContentLanguage = "nl"
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-09"
+  description = "Georganiseerd door Phoenix en U-Track"

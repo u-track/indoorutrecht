@@ -6,6 +6,8 @@ menu:
   main:
     weight: 3
 ---
+**GEANNULEERD**
+
 Dit jaar organiseren Phoenix en U-Track de wedstrijden weer en wel op 18 december, 2 januari en 15 januari. In de atletiekhal te Utrecht is geen rondbaan dus zijn er alleen maar sprint onderdelen en technische onderdelen mogelijk. Sinds 2017-2018 zijn de wedstrijden veranderd naar de zaterdagmiddag en vanaf 2019 hebben we het programma iets uitgesmeerd en extra groepen op de technische onderdelen toegevoegd (uitgezonderd 2 januari ivm clubkampioenschappen).
 
 Er zijn 4 zones in de hal die gelijktijdig gebruikt kunnen worden: een sprintbaan voor 50m, 60m en 50/60m horden, een voor hoog, een voor polshoog en daarnaast één officiële verspringbak.

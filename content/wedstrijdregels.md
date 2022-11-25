@@ -54,7 +54,7 @@ menu:
 
 ### Hoogspringen
 * Bij het hoogspringen zijn aantal pogingen standaard volgens WR atletiekunie
-* De aanvangs/vervolghoogte staan vermeld bij de wedstrijd in het tijdschema. Bij de eerste wedstrijd staat hoogspringen alleen open voor Junioren B of ouder.
+* De aanvangs/vervolghoogte staan vermeld bij de wedstrijd in het tijdschema.
 * Alle categorieën springen door elkaar (startlijst in principe op opgegeven prestatie)
 * Aanbrengen van markeringen op de aanloop mag alleen met door de organisatie aangereikt materiaal (speciale tape)! Markeringen aangebracht met eigen tape worden zonder mededeling verwijderd!
 

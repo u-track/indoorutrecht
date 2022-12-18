@@ -34,7 +34,7 @@ Afmelden kan tot donderdagavond 16 december 23.59 uur. Het inschrijfgeld wordt i
 * Zorg dat je de [wedstrijdregels](/wedstrijdregels/) hebt gelezen!
 
 ### Serie indelingen
-De serie indelingen zijn beschikbaar ongeveer 30 minuten voor de start van het onderdeel via [Atletiekunie](https://www.atletiek.nl/wedstrijdkalender/?id=835). Series worden ingedeeld op door de atleet ingevoerde tijden. Series zijn van snel naar langzaam.
+De serie indelingen zijn beschikbaar ongeveer 30 minuten voor de start van het onderdeel via [Atletiekunie](https://uitslagen.atletiek.nl/Competitions/Details/8702). Series worden ingedeeld op door de atleet ingevoerde tijden. Series zijn van snel naar langzaam.
 
 ### Uitslagen
-Beschikbaar via [Atletiekunie](https://www.atletiek.nl/wedstrijdkalender/?id=835)
+Beschikbaar via [Atletiekunie](https://uitslagen.atletiek.nl/Competitions/Details/8702)

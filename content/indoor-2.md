@@ -25,7 +25,7 @@ Onze indoorwedstrijden worden gehouden in de atletiekhal van [Sportcentrum Galge
 
 ### Kosten
 Junioren/Senioren/Masters € 4,50 per nummer.
-Afmelden kan tot zaterdagavond 7 januari 19.00 uur. Het inschrijfgeld wordt in dat geval terugbetaald onder aftrek van 1 euro transactiekosten.
+Afmelden kan tot vrijdagavond 6 januari 19.00 uur. Het inschrijfgeld wordt in dat geval terugbetaald onder aftrek van 1 euro transactiekosten.
 
 ### Inschrijven
 * Inschrijven gaat via [Atletiekunie](https://www.atletiek.nl/wedstrijdkalender/?id=846). Mochten er vragen zijn dan kan men deze kwijt op organisatie@indoorutrecht.nl.

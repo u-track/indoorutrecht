@@ -28,7 +28,7 @@ Junioren/Senioren/Masters € 4,50 per nummer.
 Afmelden kan tot vrijdagavond 20 januari 19.00 uur. Het inschrijfgeld wordt in dat geval terugbetaald onder aftrek van 1 euro transactiekosten.
 
 ### Inschrijven
-* Inschrijven gaat via [lanet](https://www.atletiek.nl/wedstrijdkalender/?id=847). Mochten er vragen zijn dan kan men deze kwijt op organisatie@indoorutrecht.nl.
+* Inschrijven gaat via [Atletiekunie](https://www.atletiek.nl/wedstrijdkalender/?id=847). Mochten er vragen zijn dan kan men deze kwijt op organisatie@indoorutrecht.nl.
 * Deze wedstrijd is bijna altijd volledig vol. We werken met reserves, tot 2 dagen voor de wedstrijd. De laatste 2 dagen voor de wedstrijd laten we geen reserves meer toe. Bij het afhalen van de startnummers kan er worden geïnformeerd naar vrijgekomen plekken, vol=vol. Door afmeldingen kunnen we heel veel reserves toelaten (voornamelijk de sprintnummers/hordennummers).
 * De organisatie behoudt zich het recht voor om te selecteren in de reserves.
 * Zorg dat je de [wedstrijdregels](/wedstrijdregels/) hebt gelezen!

@@ -15,9 +15,9 @@ Het chronoloog ziet er als volgt uit (mogelijk volgen er aanpassingen, dit naar 
 
 | Tijd	| Onderdeel	  | Categorie	  | Max  | Tijd  | Onderdeel	      | Opmerking	                | Categorie	  | Max |
 | :---- | :---------- | :---------- | :--- | :---- | :--------------- | :-------------------------| :---------- | :-- |
-| 15:00	| 50m	        | Jun/Sen/Mas	| 90   | 13:00 | Verspringen      | Groep 1	                  | Jun/Sen/Mas | 15  |
-| 15:40	| 60m groep A |	Jun/Sen/Mas	| 90   | 13:00 | Verspringen	    | Groep 2	                  | Jun/Sen/Mas | 15  |
-| 16:40	| 60m Horden  |	Jun/Sen/Mas	| 66   | 14:00 | Verspringen	    | Groep 3	                  | Jun/Sen/Mas | 15  |
+| 15:00	| 50m	        | Jun/Sen/Mas	| 90   | 15:00 | Verspringen      | Groep 1	                  | Jun/Sen/Mas | 15  |
+| 15:40	| 60m groep A |	Jun/Sen/Mas	| 90   | 16:00 | Verspringen	    | Groep 2	                  | Jun/Sen/Mas | 15  |
+| 16:40	| 60m Horden  |	Jun/Sen/Mas	| 66   | 17:00 | Verspringen	    | Groep 3	                  | Jun/Sen/Mas | 15  |
 | 17:30	| 60m groep B |	Jun/Sen/Mas	| 48   |       |              	  |      	                    |             |     |
 
 ### Locatie
@@ -28,7 +28,7 @@ Junioren/Senioren/Masters € 4,50 per nummer.
 Afmelden kan tot zaterdagavond 7 januari 19.00 uur. Het inschrijfgeld wordt in dat geval terugbetaald onder aftrek van 1 euro transactiekosten.
 
 ### Inschrijven
-* Inschrijven gaat via [lanet](https://www.atletiek.nl/wedstrijdkalender/?id=846). Mochten er vragen zijn dan kan men deze kwijt op organisatie@indoorutrecht.nl.
+* Inschrijven gaat via [Atletiekunie](https://www.atletiek.nl/wedstrijdkalender/?id=846). Mochten er vragen zijn dan kan men deze kwijt op organisatie@indoorutrecht.nl.
 * Deze wedstrijd is bijna altijd volledig vol. We werken met reserves, tot 2 dagen voor de wedstrijd. De laatste 2 dagen voor de wedstrijd laten we geen reserves meer toe. Bij het afhalen van de startnummers kan er worden geïnformeerd naar vrijgekomen plekken, vol=vol. Door afmeldingen kunnen we heel veel reserves toelaten (voornamelijk de sprintnummers/hordennummers).
 * De organisatie behoudt zich het recht voor om te selecteren in de reserves.
 * Zorg dat je de [wedstrijdregels](/wedstrijdregels/) hebt gelezen!
